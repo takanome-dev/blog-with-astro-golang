@@ -1,0 +1,17 @@
+{
+  "name": "untitled-ui",
+  "description": "A blog app built with Astro and Golang",
+  "version": "1.0.0",
+  "packageManager": "pnpm@8.8.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "homepage": "https://github.com/takanome-dev/blog-with-astro-golang#readme",
+  "bugs": "https://github.com/takanome-dev/blog-with-astro-golang/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanome-dev/blog-with-astro-golang.git"
+  },
+  "author": "El Hadji Malick Seck <takanomedev221@gmail.com>",
+  "license": "MIT",
+}
